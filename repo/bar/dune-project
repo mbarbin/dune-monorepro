@@ -1,0 +1,13 @@
+(lang dune 3.20)
+
+(name bar)
+
+(generate_opam_files)
+
+(implicit_transitive_deps false)
+
+(package
+ (name bar)
+ (depends
+  (foo
+   (>= 0.0.1))))
