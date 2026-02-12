@@ -1,4 +1,4 @@
 (library
  (name bar)
  (public_name bar)
- (libraries foo))
+ (libraries foo nonempty-list))

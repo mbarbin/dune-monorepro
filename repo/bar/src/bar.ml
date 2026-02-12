@@ -1,1 +1,1 @@
-let message = Foo.greeting ^ " via bar"
+let message = Nonempty_list.hd Foo.greeting ^ " via bar"

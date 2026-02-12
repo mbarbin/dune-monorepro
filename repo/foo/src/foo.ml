@@ -1,1 +1,1 @@
-let greeting = "Hello from foo"
+let greeting : string Nonempty_list.t = [ "Hello from foo" ]

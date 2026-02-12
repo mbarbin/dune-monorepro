@@ -3,6 +3,7 @@ opam-version: "2.0"
 depends: [
   "dune" {>= "3.20"}
   "foo" {>= "0.0.1"}
+  "nonempty-list" {>= "v0.17"}
   "odoc" {with-doc}
 ]
 build: [

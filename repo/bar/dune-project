@@ -10,4 +10,6 @@
  (name bar)
  (depends
   (foo
-   (>= 0.0.1))))
+   (>= 0.0.1))
+  (nonempty-list
+   (>= v0.17))))
