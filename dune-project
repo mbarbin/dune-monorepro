@@ -6,6 +6,12 @@
 
 (implicit_transitive_deps false)
 
+(pin
+ (url repo/nonempty-list)
+ (package
+  (name nonempty-list)
+  (version v0.17)))
+
 (package
  (name monorepro)
  (depends
