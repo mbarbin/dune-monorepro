@@ -2,4 +2,4 @@
  (name main)
  (package monorepro)
  (public_name monorepro)
- (libraries foo bar nonempty-list))
+ (libraries bar foo nonempty-list))
